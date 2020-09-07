@@ -1,0 +1,136 @@
+{
+    "Header": {
+
+        "title": "The Best Soil in the World",
+        "paragraph": "Soils of the Palouse are deep, formed in an extensive deposit of loess and shaped by subsequent water erosion."
+
+    },
+    "About": {
+        "paragraph": "The Palouse is the most serene and pastoral of the seven wonders of Washington State.",
+        "Why": [
+            "Best Soil",
+            "Year around Growth",
+            "No Water Required",
+            "Healthy Plants"
+        ],
+        "Why2": [
+            "Gives the plants Nutrients",
+            "Gucci of Soil",
+            "Palouse Gold",
+            "Great Price"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-leaf",
+            "name": "Plant Soil",
+            "text": "Grow your plants in the Best Soil around."
+        },
+        {
+            "icon": "fa fa-pagelines",
+            "name": "Expert Advise",
+            "text": "Ask our Master Gardeners all about growing year-around."
+        },
+        {
+            "icon": "fa fa-globe",
+            "name": "Healthy Earth",
+            "text": "Sustainable business.  We work hard to maintain the earth we sell."
+        },
+        {
+            "icon": "fa fa-heart",
+            "name": "Healthy Lifestyle",
+            "text": "Promoting a healthy lifestyle, eating what you grow."
+        },
+        {
+            "icon": "fa fa-sun-o",
+            "name": "Summer",
+            "text": "Summer time Planting."
+        },
+        {
+            "icon": "fa fa-moon-o",
+            "name": "Winter",
+            "text": "Grow food all year."
+        }
+
+
+    ],
+    "Testimonials": [{
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "4321 California St, San Francisco, CA 12345 ",
+        "phone": "+1 123 456 1234",
+        "email": "info@company.com",
+        "facebook": "fb.com",
+        "twitter": "twitter.com",
+        "youtube": "youtube.com"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Lorem ipsum",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        }
+    ]
+}
