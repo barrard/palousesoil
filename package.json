@@ -17,6 +17,7 @@
     "styled-components": "^5.2.0"
   },
   "scripts": {
+    "dev": "react-scripts start",
     "start": "serve -l 65111 -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
